@@ -1,6 +1,6 @@
 # **List of most useful commands in  Ubuntu**
 
-Here is a list of some most useful commands for ubuntu
+Here is a list of some most useful commands for ubuntu.
 
 ## **Summary**
 | Command        | Description          | 
