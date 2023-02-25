@@ -40,7 +40,7 @@ Here is a list of some most useful commands for ubuntu.
 
  Type `pwd` into the terminal and press enter to see the path of the folder. `pwd` stands for "print working directory".
 ## *List*
- Type `ls` into the terminal to see what's in the current folder. `ls` stands for "list".The folders will show in blue color and files will have their extension.
+ Type `ls` into the terminal to see what's in the current folder. `ls` stands for "list".The **folders** will show in **blue** color and files will have their extension.
 
 ## *Long List Format*
 Add a **flag** to a command to use it different ways like this: `ls <flag>`. List the contents of the `folder_name` folder in "long list format". To do that add the `-l` flag to the "list" command.
